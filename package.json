@@ -1,10 +1,10 @@
 {
   "name": "vieros",
   "version": "4.0.1",
-  "description": "A Discord bot with DisTube and slash commands.",
-  "main": "src/index.js",
+  "description": "craete vierod devloper",
+  "main": "src/vieros.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/vieros.js"
   },
   "dependencies": {
     "@discordjs/builders": "^1.8.2",
